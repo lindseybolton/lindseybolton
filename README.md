@@ -18,4 +18,4 @@ You can reach out to me via email at [lindsey-bolton@uiowa.edu](mailto:lindsey-b
 ## Skills
 ![Python badge](https://img.shields.io/static/v1?message=python&logo=python&labelColor=5c5c5c&color=3776AB&logoColor=white&label=%20&style=for-the-badge)
 [![R](https://img.shields.io/static/v1?message=R&logo=r&labelColor=5c5c5c&color=276DC3&logoColor=white&label=%20&style=for-the-badge)](https://www.r-project.org/)
-[![SQL](https://img.shields.io/static/v1?message=SQL&logo=sql&labelColor
+[![SQL](https://img.shields.io/static/v1?message=SQL&logo=sql&labelColor=5c5c5c&color=E66F00&logoColor=white&label=%20&style=for-the-badge)](https://en.wikipedia.org/wiki/SQL)
